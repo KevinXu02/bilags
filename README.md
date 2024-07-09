@@ -1,4 +1,4 @@
-# Bilags: An unofficial 3DGS Version of Bilateral Guided Radiance Field Processing
+# Bilags: An 3DGS Version of Bilateral Guided Radiance Field Processing
 This repository contains the nerfstudio splatfacto implementation for SIGGRAPH (TOG) 2024 paper: "Bilateral Guided Radiance Field Processing" by Yuehao Wang, Chaoyi Wang, Bingchen Gong, and Tianfan Xue.
 
 Only 2D training stage are implemented in this repo. An about 20% speed reduction is observed in the training stage. 
